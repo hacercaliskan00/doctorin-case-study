@@ -34,7 +34,10 @@ README.md → Proje açıklaması
 
 ## 📌 Notlar
 - Test senaryoları gerçek platform üzerinde yürütülmüş, gözlemlenen hatalar raporlanmıştır.  
-- Tüm çalışmalar **öğrenme sürecimi** ve **sistematik test yaklaşımımı** göstermek amacıyla hazırlanmıştır.  
+- Tüm çalışmalar **öğrenme sürecimi** ve **sistematik test yaklaşımımı** göstermek amacıyla hazırlanmıştır.
+  
+- ### Not
+`module2-tests.zip` içinde tam proje kodları yer almaktadır. İndirilip açıldığında doğrudan çalıştırılabilir.
 
 ---
 
